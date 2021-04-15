@@ -1,0 +1,10 @@
+name: Slappy
+author: Halflove
+version: V4.15.21-1.16.5
+main: me.Halflove.SlappyMain.Main
+api-version: 1.16
+commands:
+  slappy:
+    usage: </command>
+    description: Internal.
+    aliases: [s]
